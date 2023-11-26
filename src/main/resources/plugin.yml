@@ -1,0 +1,11 @@
+name: ChatColoring
+version: '${project.version}'
+main: world.ntdi.chatcoloring.ChatColoring
+api-version: '1.19'
+prefix: ChatColoring
+authors: [Ntdi]
+description: Color the chat messages!
+website: ntdi.world
+commands:
+  chatcolor:
+    usage: Set the color of your messages in chat!
